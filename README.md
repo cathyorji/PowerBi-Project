@@ -14,3 +14,12 @@ This Power BI dashboard breaks down the information collected in an online surve
 
 # Tech Stack
 * Power BI
+* Microsoft Excel
+
+# Result of Analysis
+* Average salary is $53.90K
+* Favourite Programming language is Python
+* Most Preference is Better Salary
+* Highest Average salary is $94 in a Data Scientist role
+
+# Dashboard
