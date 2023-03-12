@@ -5,7 +5,7 @@ This Power BI dashboard breaks down the information collected in an online surve
 
 
 
-Steps Covered
+# Steps Covered
 1. Connecting Database with Power BI Desktop
 2. Analyzing the tables and relations
 3. Data Cleaning using Power Query Editor
