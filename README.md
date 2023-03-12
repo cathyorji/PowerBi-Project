@@ -24,4 +24,4 @@ This Power BI dashboard breaks down the information collected in an online surve
 
 # Dashboard
 
-![](images/powerbi project.png)
+![powerbi project](https://user-images.githubusercontent.com/93156994/224533828-8531b00d-68c5-47ce-81ec-d5d99c6584d7.png)
