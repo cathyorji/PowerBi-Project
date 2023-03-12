@@ -24,4 +24,4 @@ This Power BI dashboard breaks down the information collected in an online surve
 
 # Dashboard
 
-![Alt text]("C:\Users\cathy\Downloads\powerbi porject.png"?raw=true "Dashboard")
+![](images/powerbi project.png)
