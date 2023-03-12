@@ -10,4 +10,7 @@ This Power BI dashboard breaks down the information collected in an online surve
 2. Analyzing the tables and relations
 3. Data Cleaning using Power Query Editor
 4. Developing an Interactive BI Dashboard / Report
-5. Tech Stack
+
+
+# Tech Stack
+* Power BI
